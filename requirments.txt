@@ -1,0 +1,6 @@
+pip install colorama
+pip install requests
+pip install tls_client
+pip install pystyle 
+pip install datetime
+pip install httpx
